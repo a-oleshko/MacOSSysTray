@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img/SysTray">
+        <file alias="iconSysTray">systray/iconSysTray.svg</file>
+    </qresource>
+</RCC>
